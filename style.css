@@ -159,13 +159,22 @@ th {
 .read-more {
     text-align: right;
 }
+.content {
+    margin: 0px 100px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(137, 58, 21);
+    margin-top: 150px;
+    opacity: 0.8;
+}
 .mid{
-    text-align: start;
-    color:sienna;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color:rgb(212, 181, 167);
+    font-size: 20px;
 }
 .gh{
     text-align:center !important;
     color: sienna;
-    
 }
 
